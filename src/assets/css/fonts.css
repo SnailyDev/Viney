@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap");
+html,
+body {
+  font-family: "Geist", "Inter", sans-serif !important;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+}
+
+h4,
+h5,
+h6 {
+  font-weight: 500;
+}
+
+p {
+  font-weight: 400;
+}
+
+code {
+  font-family: "Geist Mono", "Courier New", monospace !important;
+  color: orange !important;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 800;
+}
+
+.text-vintage {
+  font-family: "EB Garamond", Times, "Times New Roman" !important;
+}

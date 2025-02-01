@@ -1,0 +1,12 @@
+.b-link {
+  text-decoration: underline !important;
+  color: #ffffff !important;
+}
+
+.b-link:hover {
+  color: gainsboro !important;
+}
+
+.b-link:active {
+  color: darkgray !important;
+}
