@@ -1,0 +1,25 @@
+@keyframes left-to-pos {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes right-to-pos {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.left-to-pos {
+  animation: left-to-pos 1.25s ease-in-out;
+}
+
+.right-to-pos {
+  animation: left-to-pos 1.25s ease-in-out;
+}
