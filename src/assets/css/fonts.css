@@ -28,3 +28,15 @@ code {
   font-family: "Geist Mono", "Courier New", monospace !important;
   color: orange !important;
 }
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 800;
+}
+
+.text-vintage {
+  font-family: "EB Garamond", Times, "Times New Roman" !important;
+}
